@@ -8,7 +8,6 @@ body {
     margin: 0;
 }
 
-/* Estilização do Card */
 .card {
     background-color: white;
     padding: 30px;
@@ -18,7 +17,6 @@ body {
     width: 300px;
 }
 
-/* Círculo da foto */
 .foto-perfil {
     width: 100px;
     height: 100px;
@@ -38,7 +36,6 @@ p {
     line-height: 1.5;
 }
 
-/* Botão estilizado */
 button {
     margin-top: 20px;
     background-color: #3498db;
